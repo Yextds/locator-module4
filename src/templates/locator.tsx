@@ -15,7 +15,7 @@ import { useEffect } from "react";
 
 
 export const getPath: GetPath<TemplateProps> = () => {
-  return `/locator`;
+  return `/index.html`;
 };
 
 const Locator: Template<TemplateRenderProps> = () => {
